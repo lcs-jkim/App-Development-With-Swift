@@ -16,8 +16,8 @@ print("My name is Jenis Kim")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
+print("never gonna give you up, never gonna let you down")
+print("never gonna run around, and desert you")
 
 /*:
 
